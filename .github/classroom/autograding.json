@@ -2,8 +2,8 @@
   "tests": [
     {
       "name": "add two integer numbers",
-      "setup": "Program-1.cpp",
-      "run": "g++ Program-1.cpp",
+      "setup": "g++ Program-1.cpp",
+      "run": "./a.out",
       "input": "2 3",
       "output": "5",
       "comparison": "included",
